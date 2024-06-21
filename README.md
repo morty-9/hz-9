@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Java Script.
 - 📫 How to reach me - Email (hzawnineseven@gmail.com)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morty-9&hide_progress=true)
 
 <!---
 hz-9/hz-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
